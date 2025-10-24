@@ -2,24 +2,26 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+It's a programming language to make pages dynamic.
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+1. Version control
+2. Collaboration
+3. Remote Access
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+We create our own copy of someone else's repository under our GitHub account.
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+We download a full copy of that Git repository
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+It is a way to propose changes to the branch.
